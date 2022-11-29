@@ -1,6 +1,7 @@
 # 2022-cordova-introduce
 
 첫 화면
+> 학과 소개, 학과 영상, 학과 사진, 학교 교가 탭이 있습니다.
 
 ![1](https://user-images.githubusercontent.com/90297003/204459912-1031c2fe-e004-48f0-9841-61f668920447.png)
 
